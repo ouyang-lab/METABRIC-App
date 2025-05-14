@@ -2,7 +2,7 @@
 ## Installation
 ### Dependencies
 This software uses the Shiny framework. We recommend using R with RStudio. 
-The following R package depencies are required for running this app (`Rscript ./install_dependencies.R`):
+The following R package dependencies are required for running this app (`Rscript ./install_dependencies.R` or open in RStudio and select the "Run" button):
  - `shiny`
  - `readr`
  - `MVA`
