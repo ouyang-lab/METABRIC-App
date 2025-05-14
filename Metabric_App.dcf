@@ -1,0 +1,12 @@
+name: Metabric_App
+title: Metabric_App
+username: iasios
+account: iasios
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11509518
+bundleId: 8447826
+url: https://iasios.shinyapps.io/Metabric_App/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
